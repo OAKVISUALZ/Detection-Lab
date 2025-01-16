@@ -84,9 +84,6 @@ print("Prediction for Sample Data (0=Rock, 1=Mine):", prediction)
 
 ![image](https://github.com/user-attachments/assets/4e350cd9-1326-4bed-b3d8-df337bc6c69b)
 
-1. Dataset Overview.
-2. Accuracy, Confusion Matrix, and Classification Report output.
-3. Feature Importance Visualization.
 
 ---
 
