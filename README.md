@@ -1,1 +1,1 @@
-# Detection-Lab
+# Detection of Rocks and Mines
